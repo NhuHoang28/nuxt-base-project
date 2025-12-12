@@ -1,7 +1,7 @@
 <template>
     <div>
       <BButton variant="primary" @click="show = !show">Click me</BButton>
-      <BModal v-model="show">Test</BModal>ssssssssssssssssaaaaaaaaaaaaaaaaaaaa
+      <BModal v-model="show">Test</BModal>ssssssssssssssssaaaaaaaaaaaaaaaaaaaabbbbbbbbbbb
     </div>
   </template>
 
